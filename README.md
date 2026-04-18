@@ -123,7 +123,6 @@ http://127.0.0.1:5000/
 * Appointments Page
 * Resource Management
 
-*(Add screenshots here for better presentation)*
 
 ---
 
